@@ -1,5 +1,10 @@
 Hi 👋 My name is Tanay Vaibhav Choudhari
-========================================Senior Software Engineer------------------------I have been into programming for a very long time. I started with HTML, and CSS and now currently working on HTML5, CSS3, Bootstrap 4 & 5, CodeIgnitor, ReactJS, API integration, etc* 🌍  I'm based in Nashik, Maharashtra, India* ✉️  You can contact me at [tanaychoudhari92@gmail.com](mailto:tanaychoudhari92@gmail.com)* 🧠  I'm learning Python | Django | Flutter* 🤝  I'm open to collaborating on PHP | ReactJS
+Senior Software Engineer
+I have been into programming for a very long time. I started with HTML, and CSS and now currently working on HTML5, CSS3, Bootstrap 4 & 5, CodeIgnitor, ReactJS, API integration, etc* 
+🌍  I'm based in Nashik, Maharashtra, India* 
+✉️  You can contact me at [tanaychoudhari92@gmail.com](mailto:tanaychoudhari92@gmail.com)* 
+🧠  I'm learning Python | Django | Flutter* 
+🤝  I'm open to collaborating on PHP | ReactJS
 
 <a href="https://www.github.com/TanayChoudhari" target="_blank" rel="noreferrer"><imgsrc="https://img.shields.io/github/followers/TanayChoudhari?logo=github&style=for-the-badge&color=84cc16&labelColor=1c1917" /></a>
 
