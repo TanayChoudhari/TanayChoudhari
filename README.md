@@ -8,7 +8,7 @@ I have been into programming for a very long time. I started with HTML, and CSS 
 
 *   🌍  I'm based in Nashik, Maharashtra, India
 *   ✉️  You can contact me at [tanaychoudhari92@gmail.com](mailto:tanaychoudhari92@gmail.com)
-*   🧠  I'm learning Python | Django | Flutter
+*   🧠  I'm learning Python | Django | Flutter | Magento
 *   🤝  I'm open to collaborating on PHP | ReactJS
 
 <a href="https://www.github.com/TanayChoudhari" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/TanayChoudhari?logo=github&style=for-the-badge&color=84cc16&labelColor=1c1917" /></a>
@@ -49,6 +49,3 @@ I have been into programming for a very long time. I started with HTML, and CSS 
 <b>Top Repositories</b>
 
 <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
-	
-### Support Me
-<a href="https://www.buymeacoffee.com/tanaychoudhari"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
