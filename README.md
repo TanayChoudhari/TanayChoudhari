@@ -4,7 +4,7 @@ Hi 👋 My name is Tanay Vaibhav Choudhari
 Senior Software Engineer
 ------------------------
 
-I have been into programming for a very long time. I started with HTML, and CSS and now currently working on HTML5, CSS3, Bootstrap 4 & 5, CodeIgnitor, ReactJS, API integration, etc
+I have been into programming for a very long time. I started with HTML, and CSS and now currently working on HTML5, CSS3, Bootstrap 4 & 5, CodeIgnitor, ReactJS, API integration, Yii 1 & 2, MySQL, Redis, Apache, Nginx etc
 
 *   🌍  Hometown is Nashik, Maharashtra. But currently situated in Thane, Maharashtra, India
 *   ✉️  You can contact me at [tanaychoudhari92@gmail.com](mailto:tanaychoudhari92@gmail.com)
