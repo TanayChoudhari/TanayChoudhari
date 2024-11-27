@@ -6,10 +6,10 @@ Senior Software Engineer
 
 I have been into programming for a very long time. I started with HTML, and CSS and now currently working on HTML5, CSS3, Bootstrap 4 & 5, CodeIgnitor, ReactJS, API integration, etc
 
-*   🌍  I'm based in Nashik, Maharashtra, India
+*   🌍  Hometown is Nashik, Maharashtra. But currently situated in Thane, Maharashtra, India
 *   ✉️  You can contact me at [tanaychoudhari92@gmail.com](mailto:tanaychoudhari92@gmail.com)
-*   🧠  I'm learning Python | Django | Flutter | Magento
-*   🤝  I'm open to collaborating on PHP | ReactJS
+*   🧠  I'm learning ReactJs | Go | Yii | Redis etc
+*   🤝  I'm open to collaborating on PHP | ReactJS | PHP & it's frameworks.
 
 <a href="https://www.github.com/TanayChoudhari" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/TanayChoudhari?logo=github&style=for-the-badge&color=84cc16&labelColor=1c1917" /></a>
 
